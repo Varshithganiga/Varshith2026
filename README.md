@@ -31,14 +31,47 @@
   <a href="https://www.sqlite.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" height="40"/></a>
 </p>
 
+<!-- Banner Section -->
+<p align="center">
+  <img src="images/banner.png" alt="banner" width="100%"/>
+</p>
+
+
+---
+
+<h2>🚀 Skills & Technologies</h2>
+
+<h3>🖥️ Backend Development</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,python," />
+</p>
+
+<h3>🎨 Frontend Development</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+</p>
+
+<h3>🗄️ Databases</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite" />
+</p>
+
+<h3>☁️ Tools & Cloud</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,docker,aws,github" />
+</p>
+
+---
+
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=patilmanjunath0410&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patilmanjunath0410&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=patilmanjunath0410&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patilmanjunath0410&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=patilmanjunath0410&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=patilmanjunath0410&theme=tokyonight" height="160"/>
 </p>
+
 
