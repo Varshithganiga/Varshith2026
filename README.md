@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning *Frameworks, AI Tools etc*
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:<br> 9686541048</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/varshith-g-a39a4624b" target="blank">
     <img align="center" 
@@ -16,10 +16,7 @@
 
 
 
-<!-- Banner Section -->
-<p align="center">
-  <img src="images/banner.png" alt="banner" width="100%"/>
-</p>
+
 
 
 ---
