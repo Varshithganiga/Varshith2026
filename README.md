@@ -40,7 +40,8 @@
 
 <h3>☁️ Tools & Cloud</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=git,docker,aws,github, postman" />
+  <img src="https://skillicons.dev/icons?i=git,docker,aws,github,windows,postman" />
+ 
 </p>
 
 ---
